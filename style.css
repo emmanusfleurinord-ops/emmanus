@@ -1,0 +1,17 @@
+/* Definindo o fundo da página */
+body {
+    background-color: #f0f8ff; /* cor de fundo suave */
+    font-family: Arial, sans-serif; /* tipografia padrão */
+    display: flex; /* usando flexbox para centralizar */
+    justify-content: center; /* alinha ao centro horizontalmente */
+    align-items: center; /* alinha ao centro verticalmente */
+    height: 100vh; /* ocupa toda a altura da tela */
+    margin: 0; /* remove a margem padrão */
+}
+
+/* Estilizando o título */
+h1 {
+    color: #4CAF50; /* cor verde */
+    font-size: 3em; /* tamanho da fonte */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* sombra do texto */
+}
