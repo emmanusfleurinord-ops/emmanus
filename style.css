@@ -76,4 +76,22 @@ h1 {
 
 .btn:hover {
     background-color: var(--primary-hover);
+}footer {
+    background-color: #333;
+    color: var(--white);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: var(--border-radius);
 }
+
+footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
